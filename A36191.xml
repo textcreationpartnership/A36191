@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. B---t's farewell, confessor to the late King of Poland, upon his translation to the Sey of Hungary</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36191</idno>
+            <idno type="STC">Wing D1759</idno>
+            <idno type="STC">ESTC R1053</idno>
+            <idno type="EEBO-CITATION">12264958</idno>
+            <idno type="OCLC">ocm 12264958</idno>
+            <idno type="VID">57995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36191)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57995)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 181:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. B---t's farewell, confessor to the late King of Poland, upon his translation to the Sey of Hungary</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Protestants --  England.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:57995:1"/>
+            <pb facs="tcp:57995:1" rendition="simple:additions"/>
+            <head>Dr. B—t's Farewell, CONFESSOR <hi>To the late King of Poland,</hi> Upon his Tranſlation to the Sey of Hungary.</head>
+            <p>SInce the fall of our late King <hi>Tapsky</hi> of famous Memory, our Affairs in <hi>Poland</hi> have gone down the Wind, and very much againſt the Stream. The Conſpiracy being detected hath turn'd the Currant againſt us, for where Rebellion does not thrive, there is no Sanctuary for the Rebel. Then fare<g ref="char:EOLhyphen"/>well <hi>Poland,</hi> and hey for the Coaſt of <hi>Hungary,</hi> there's the Seat of Rebellion, and therefore the Proſperous Refuge for Rebels. Thither Prince <hi>Perkinaski, Grayaski, Armſringcaski,</hi> the Chief Princes and Magſtrates of <hi>Tapskys</hi> Kingdom of <hi>Poland</hi> are ſled before, and thither will I their Spiritual Guide and Confeſſor follow. I Propheſie a Mortallyty of the Saints, and that ſome whining Fool will betray all at laſt with a pittiful Confeſſion in my Abſence, or if I ſhould ſtay, it is Ten to one whither I gain another Proſelyte upon the Gibbet.</p>
+            <p>Now for the Diſſerting <hi>Poland</hi> to come over to <hi>Hungary,</hi> is for the likeneſs of our Humors, Doctrine and Diſpoſitions, there being a kind of Congeniallity between us, the <hi>Hungarians</hi> being naturally Inclinable to Rebellion, Aſſertors of the Doc<g ref="char:EOLhyphen"/>trine of Reſiſtance, and juſtifying the Lawfulneſs of taking Arms againſt their Lawful Prince, and Rebels affect the Perſons of Rebels as naturally as they do their Principles. They are Proteſtants, ſo are we; they are for Reformation in Church and Government, ſo are we; they are for Tolleration, and Liberty of Conſcience, ſo are we; they are for Routs and Riots, Confuſion and Diſorder, ſo are we; they are for maintaining their Factions with their Sword againſt the Church and Mo<g ref="char:EOLhyphen"/>narchy, ſo are we, Now our Principles and Intereſis being the ſame, where can I better look for a New Living to vent my old Doctrine of Sedition than a<g ref="char:EOLhyphen"/>mong Rebels, they are the Lambs of my own Folds and the Sheep of my Paſture.</p>
+            <p>Theſe are the True <hi>Iſraelites</hi> who wade through the Red Sea to the <hi>Canaan</hi> of their Conqueſts, to root the Jebuſite out of the Land, who for Chriſt and the Goſpel's ſake, dare joyn with Mahomet the profeſt Enemy of Chriſt againſt their Chriſtian Sovereign. What tho he has vow'd the Deſtruction of Chriſtianity, and ſworn to root out its very Foundation from off the Face of the Earth, we are free, the ſpirits are exempted from this Perſecution which only extends to the Chriſtian Churches, for how can we who juſtify Rebellion, and Preach the Doc<g ref="char:EOLhyphen"/>trine of Reſiſtance, pretend to Chriſtianity, that have neither Law, Loyalty, Order nor Conformity, which are the Meaſures of it? ſo that it is Evident we are Ex<g ref="char:EOLhyphen"/>cepted, our Doctrine as well as Principles being wholly oppugnant to all the pre<g ref="char:EOLhyphen"/>cepts of Chriſtianity,</p>
+            <p>Had <hi>Tapsky</hi> been now alive, how willingly could he joyn with the <hi>Turk</hi> againſt the Emperour, nay his own Lawful King under pretence of pulling down <hi>Anti<g ref="char:EOLhyphen"/>chriſt</hi> to ſet up his own Kingdom of Schiſm and Faction? This was the Cauſe of all that Heat and Contention in the late Dyet of <hi>Poland,</hi> who did all they could to cut off the Succeſſion to make their Kings Elective, under pretence of Religion to leſſen Monarchy, and putting the power of chooſing their Kings into the hands
+<pb facs="tcp:57995:2"/>of the people, which by this means wou'd ſoon convert to its firſt Babel of a <hi>Com<g ref="char:EOLhyphen"/>mon-wealth,</hi> but we were Diſcover'd in our deſigne, and yet who cou'd manage it with more Secreſie.</p>
+            <p>Of this great Dyet there were ſeveral Committes which others call'd Cabals, or more properly Councils of War, all their Conſultations and Debates tending direct<g ref="char:EOLhyphen"/>ly to an Inſurrection, yet all wou'd not doe.</p>
+            <p>To this end ſeveral Votes were made which ſtand in Judgment againſt us, and others Repeal'd.</p>
+            <p>Amongſt the reſt, the Act for crying Milk and Mackarel on Sundays was Voted a Nuſance as a Violation of the Sabbath; Milk, becauſe the Children at that time were to be bred up to the Tap from whence they ſuck't their firſt Rudiments of Rebellion. And Mackarel, becauſe the Rebbels had other Fiſh to Fry. In place of theſe there were two other Cryes, Work for a <hi>Cooper,</hi> and a <hi>Waller,</hi> a <hi>Waller,</hi> Oh! there was the Voyce of <hi>Farrenden</hi> in the Field, and of <hi>Baxter</hi> in the Pulpit, and was not I my ſelf the Canting Mouth of all the Seditious Members, and ſaid Grace before Meat, for which I was Voted Thanks and a Reward, when all the Orthodox and Learned Prelates of the Kingdom were Voted Uſeleſs, and threaten'd to be kick't out of the Houſe. I profeſs I cannot tell what Vertue Predominant in me (beſides a Religious Cant) cou'd Recommend me to the Cognizance of ſuch Diſcerning Heads, unleſs it be Treachery or Letchery for betraying Duke <hi>Lother<g ref="char:EOLhyphen"/>daski</hi> my Maſter, or getting my Maid with Child. Hold Doctor, where do you go? Let not thy own Mouth betray thee by a needleſs Confeſſion of thy faults which thou wilt not allow to others, that's unpardonable in a <hi>Cargalite,</hi> where <hi>Treaſon</hi> is but a <hi>Venial Crime,</hi> and <hi>Confeſſion</hi> a <hi>deadly Sin.</hi> For that Cauſe when the Brethren were Condemn'd to ſuffer in the outward Man I have followed them upon the <hi>Sledg,</hi> and upon the <hi>Scaffold,</hi> I have put <hi>Words</hi> into their Mouths, and <hi>Speeches</hi> into their Pockets. I have taught them that the <hi>Higheſt Treaſon</hi> is but <hi>Miſpriſton</hi> at moſt, and that <hi>Reſiſtance</hi> in caſe of Religion is to fight the Battle of the Lord. That <hi>Confeſſion,</hi> like a publick Malefactor, is abomination in the Saints where there can be no guilt, and to ſtand in a Lie at the Gallows, is to Perſevere to the end. Thus a Noble Peer of <hi>Poland</hi> held it out upon the Scaffold to the laſt gasp, till he went off like the <hi>Groaning Board,</hi> with a <hi>hum</hi> on the one ſide and a <hi>his</hi> on the other. Sure this Martyrd Board had a ſenſe of our ſufferings to come, and groan'd ſo exceedingly for the downfall of the <hi>Saints.</hi> It's well ſays <hi>Towzer</hi> it had no Soul, or the <hi>Doctor</hi> had Damn'd it. It is a hard caſe I ſhould be ſo cenſured, and yet let 'em ſay what they will, I had ſtill rather hazzard the Ruin of a Man by adviſing him to periſh in an obſtinate Denyal, than by an ultimat <hi>Confeſſion</hi> he ſhou'd betray the <hi>Cauſe.</hi>
+            </p>
+            <p>Nor is it only Zeal to the <hi>Cauſe,</hi> but ſelf preſervation and my own intereſt to keep them ſo, for ſhou'd they Diſcover it at laſt, <hi>I</hi> fear the Doctor wou'd be found as deep in the Conſpiracy as <hi>Lobb</hi> or <hi>Ferguſon.</hi>
+            </p>
+            <p>But they are fled, and it is high time for me to follow, <hi>I</hi> will be no longer Fa<g ref="char:EOLhyphen"/>ther Confeſſor in <hi>Poland,</hi> leſt it be not ſafe for me to ſtand the Teſt of another Execution. I will go to <hi>Hungary,</hi> there <hi>I</hi> will Plant the Goſpel, Preach Sedition to the People, and teach even Rebels to Rebel. Oh! there's your true Proteſtant, who under the Cloak of Religion dare take up Arms againſt their Sovereign, Juſti<g ref="char:EOLhyphen"/>fy Faction by open Rebellion, and aſſert their Liberties on the point of their Sword. Thither Oh! thither will <hi>I</hi> fly, where Reſiſtance is a Vertue, and Rebellion Juſtifiable. This is the Life and Death of a Saint to live a <hi>Teckelite</hi> in Arms a<g ref="char:EOLhyphen"/>gainſt his Prince, and die a <hi>Cargalite</hi> glorying in his Treaſons. Thither will <hi>I</hi> go, here is no Promotion here for one of my Principles now but the Gallows. Amongſt the <hi>Hungarian</hi> Rebels a Man may find preferment, perhaps be made Cardinal of <hi>Sereni,</hi> or Biſhop of <hi>Munſter,</hi> in place of <hi>Coloigne</hi> lately inſtituted, and from a Se<g ref="char:EOLhyphen"/>ditions Lecturer become an Orthodox Elector. On this ſcore wou'd <hi>I</hi> put up with the Great <hi>Turk</hi> for the <hi>Alcharon,</hi> or with the Pope for Prelacy, and Preech Con<g ref="char:EOLhyphen"/>formity according to the Letter.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57995:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
